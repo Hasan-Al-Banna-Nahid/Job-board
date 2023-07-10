@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "profession": "Software Engineer",
+    "image": "./Asset/Candidates/1.jpg",
+    "testimonial": "John is an exceptional software engineer with a keen eye for detail. He consistently delivers high-quality code and is a valuable asset to any team."
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "profession": "Graphic Designer",
+    "image": "./Asset/Candidates/2.jpg",
+    "testimonial": "Emily's creative designs never fail to impress. She has a great sense of aesthetics and always brings a fresh perspective to her work. Highly recommended!"
+  },
+  {
+    "id": 3,
+    "name": "Michael Davis",
+    "profession": "Marketing Manager",
+    "image": "./Asset/Candidates/3.jpg",
+    "testimonial": "Michael's strategic marketing skills have significantly boosted our company's growth. His ability to analyze market trends and develop effective campaigns is unparalleled."
+  },
+  {
+    "id": 4,
+    "name": "Sarah Thompson",
+    "profession": "Financial Analyst",
+    "image": "./Asset/Candidates/4.jpg",
+    "testimonial": "Sarah's analytical skills and attention to detail make her an outstanding financial analyst. Her insights have helped us make informed business decisions and optimize our financial performance."
+  },
+  {
+    "id": 5,
+    "name": "David Rodriguez",
+    "profession": "Product Manager",
+    "image": "./Asset/Candidates/5.jpg",
+    "testimonial": "David is a highly organized and result-driven product manager. He excels at gathering user feedback, defining product requirements, and successfully launching new features."
+  },
+  {
+    "id": 6,
+    "name": "Jennifer Lee",
+    "profession": "UX/UI Designer",
+    "image": "./Asset/Candidates/6.jpg",
+    "testimonial": "Jennifer's intuitive designs have greatly enhanced the user experience of our products. She has a deep understanding of user needs and consistently delivers elegant solutions."
+  },
+  {
+    "id": 7,
+    "name": "Alex Turner",
+    "profession": "Sales Executive",
+    "image": "./Asset/Candidates/7.jpg",
+    "testimonial": "Alex is an exceptional sales executive with excellent communication skills. He has a proven track record of exceeding targets and building strong relationships with clients."
+  },
+  {
+    "id": 8,
+    "name": "Jessica Brown",
+    "profession": "Human Resources Manager",
+    "image": "./Asset/Candidates/8.jpg",
+    "testimonial": "Jessica is a highly skilled HR manager who excels at recruiting and employee development. She has successfully built a strong and motivated team."
+  }
+]
